@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\bin\Debug\net6.0-windows\Game.exe
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\bin\Debug\net6.0-windows\Game.deps.json
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\bin\Debug\net6.0-windows\Game.runtimeconfig.json
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\bin\Debug\net6.0-windows\Game.dll
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\bin\Debug\net6.0-windows\Game.pdb
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.AssemblyInfo.cs
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.dll
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\refint\Game.dll
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.pdb
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\Game.genruntimeconfig.cache
+\\Mac\Home\Documents\Visual Studio 2022\Project\Game15_2\Game\obj\Debug\net6.0-windows\ref\Game.dll
